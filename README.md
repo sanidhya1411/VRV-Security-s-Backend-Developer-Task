@@ -376,5 +376,12 @@ Cloudinary is used for storing and managing post thumbnails:
 - Thumbnails are deleted when their associated posts are removed.
 
 ---
+### Testing Backend Code  
 
+To test the backend functionalities use the provided test credentials:  
+
+**Email**: `test@sanidhyablogtest.com`  
+**Password**: `Test123456`  
+
+---
 
